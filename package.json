@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/forms": "^20.3.7",
+    "axios": "^1.12.2"
+  }
+}
