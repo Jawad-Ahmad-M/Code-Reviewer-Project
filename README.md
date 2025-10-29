@@ -159,11 +159,6 @@ Access via: [http://localhost:8000](http://localhost:8000)
 | Name                                                  | Role                       |
 | ----------------------------------------------------- | -------------------------- |
 | **Jawad Ahmad**                                       | Lead Developer & Architect |
-| **Muneeb Shafique**                                   | Frontend Engineer          |
-| **Dayyan Riaz**                                       | Backend Developer          |
-| **Huzaifa Muzammil**                                  | QA & Integration           |
-| **Supervisor:** Mam Iris                              | Project Advisor            |
-| **Institute:** UET Lahore – Institute of Data Science |                            |
 
 ---
 
